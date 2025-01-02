@@ -20,6 +20,6 @@
         @endif
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-        <h1>Hello</h1>
+        <h1>About Page</h1>
     </body>
 </html>
